@@ -1,0 +1,43 @@
+
+
+.symbol{
+    background-color:cadetblue;
+  }
+     
+  .container{
+    padding-left:0px; 
+  }
+    
+  .box{
+    width: auto ;
+    height: auto;
+    align-self: center;
+  }
+  
+  .num{
+    background-color:hsla(hue, saturation, lightness, alpha)  ;
+    width:180px;
+    height: 80px;
+  
+    
+  }
+  input{
+    background-color: darkgray;
+    height: 90px;
+  }
+  .col-ms-8{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .calculator{
+     width: 900px!important;
+     height: 600px;
+     padding-left: 20px;
+     padding-right: 20px;
+  }
+  
+  
+  
+  
+  
+  
